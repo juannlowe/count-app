@@ -49,3 +49,11 @@ button {
     font-weight: bold;
 }
 
+#btn-background{
+    background-color: black;
+}
+
+#btn-background :hover{
+    background-color: white;
+    color: black;
+}
